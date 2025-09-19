@@ -4,6 +4,6 @@
   "test": "echo \"Error: no test specified\" && exit 1",
   "dev": "nodemon --watch src --ext js src/index.js",
   "seed": "node seed.js"
-},
+}
 
 }
